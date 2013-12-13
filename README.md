@@ -3,18 +3,31 @@ WebGlChessBoard
 Bunduru Chess Board - By Anthony Barranco & Phil Picinic
 
 Fully featured WebGL chess visualizer
+
 Animated chess pieces with high and low polygon models
+
 Multiple texture themes
+
 Multiple skybox environments
+
 Interactive and situational/reactive GUI
+
 3D camera control with mouse, GUI, or automatic animation
+
 Real time lighting, shadows, and particle effects
+
 Two server connection methods
+
 Manual move entry
+
 Chess play speed options
+
 Frames-Per-Second(FPS) counter
+
 Loading screen transitions
+
 Game Over animation
+
 Audio
 
 How To Play
